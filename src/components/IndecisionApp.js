@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import AddOption from './AddOption';
 import Options from './Options';
 import Action from './Action';
